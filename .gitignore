@@ -1,0 +1,10 @@
+# Ignore all .log files
+*.log
+
+# Ignore all files in a temporary directory
+tmp/
+
+# Ignore all .txt files in a specific directory
+docs/*.txt
+
+
